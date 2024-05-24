@@ -1,2 +1,2 @@
-# Cat-Photo-Gallery
+# Flexbox Cat-Photo-Gallery
 with freeCodeCamp
